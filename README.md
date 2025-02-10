@@ -1,0 +1,1 @@
+Votify is a secure and user-friendly online voting system designed to streamline the election process. It provides an intuitive interface for users to cast votes digitally while ensuring transparency and integrity.
