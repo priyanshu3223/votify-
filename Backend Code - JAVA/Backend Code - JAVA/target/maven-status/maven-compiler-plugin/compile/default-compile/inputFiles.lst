@@ -1,0 +1,15 @@
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\config\MailConfig.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\controller\CandidateController.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\controller\RegisterController.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\controller\VoteController.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\dao\CandidateRepository.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\dao\RegisterRepository.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\dao\VoteRepository.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\entity\Candidate.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\entity\Register.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\entity\Vote.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\RegisterApplication.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\service\CandidateService.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\service\EmailService.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\service\RegisterService.java
+K:\VotifyPROJECT\Votify\Votify-4\Votify-4\src\main\java\com\app\service\VoteService.java

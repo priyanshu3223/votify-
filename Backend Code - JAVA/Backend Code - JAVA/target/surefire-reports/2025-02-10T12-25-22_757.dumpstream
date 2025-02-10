@@ -1,0 +1,5 @@
+# Created at 2025-02-10T12:25:22.924
+Boot Manifest-JAR contains absolute paths in classpath 'K:\VotifyPROJECT\Votify\Votify-4\Votify-4\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
